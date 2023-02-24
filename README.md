@@ -9,4 +9,8 @@ Analyzed data that was scraped from twitter based on keywords from Superbowl 202
 
 "GDACInfographic.pdf" is a graphic our team put together to highlight our key findings.
 
-#Presentation is coming soon.
+#GDACPresentation.pdf is the presentation we presented to judges.
+
+#GDACVisualizations.R contains code we used to make various visualizations that you see in the other deliverables.
+
+#Top50_celeb.csv can pair with GDACVisualizations.R to see those come to life.
